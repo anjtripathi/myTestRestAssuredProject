@@ -16,6 +16,7 @@ import urlandhttprequest.api.HttpRequestClass;
 public class SetData {
 
 	TestData td;
+	//this is a faker class
 	Faker fk;
 
 	@BeforeTest
